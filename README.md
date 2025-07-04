@@ -126,7 +126,7 @@ When using complete lockdown (Option 1):
 - OneDrive sync stops
 - Some Windows features may malfunction
 
-## 🔧 Technical Details
+## Technical Details
 
 ### How It Works
 - Uses Windows built-in firewall (netsh advfirewall)
