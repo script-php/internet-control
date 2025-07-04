@@ -176,4 +176,4 @@ For issues or questions:
 
 ---
 
-** Disclaimer**: This script modifies Windows Firewall settings. Always test in a safe environment first. The authors are not responsible for any system issues or data loss. Use at your own risk.
+**Disclaimer**: This script modifies Windows Firewall settings. Always test in a safe environment first. The authors are not responsible for any system issues or data loss. Use at your own risk.
